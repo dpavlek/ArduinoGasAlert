@@ -9,4 +9,5 @@ Arduino program for reading the value of gas concentration in the air and sendin
 ### Author ###
 
 Daniel Pavleković
+
 daniel.pavlekovic@gmail.com
